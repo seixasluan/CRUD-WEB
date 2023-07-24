@@ -1,4 +1,4 @@
-# CRUD-web
+# CRUD-WEB
 CRUD Feito Utilizando Node.js + MySQL
 # O Que é CRUD?
 CRUD é a sigla para:
@@ -10,4 +10,6 @@ CRUD é a sigla para:
 </ul>
 São as operações básicas dos bancos de dados onde os verbos realizam a ação de criar, ler, atualizar e excluir dados respectivamente.
 
-# Este sistema web foi desenvolvido para prática e aperfeiçoamento.
+# Como rodar o projeto?
+
+# Projeto pessoal desenvolvido para prática e aperfeiçoamento.
